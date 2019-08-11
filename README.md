@@ -1,5 +1,5 @@
 # Subfind3r
-A script written in python which lists down all the subdomain of a given website. It works on all platforms windows, linux and termux
+A simple script written in python which lists down all the subdomain of a given website. It works on all platforms windows, linux and termux
 
 # Usage in Windows
 pip install requests
