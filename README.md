@@ -10,3 +10,5 @@ python subfinder.py -d target.com -o example.txt
 # Usage in Linux and Termux 
 pip install requirements.txt
 python subfinder.py -d target.com -o example.txt
+
+![screen](https://raw.githubusercontent.com/Dhanushkgowda3/Subfind3r/master/Capture.PNG)
